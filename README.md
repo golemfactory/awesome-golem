@@ -13,10 +13,10 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
   - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
-- [Learning Resources](#learning-resources)
+- [Learning Resources](#-learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
-  - [GitHub Digest](#gitHub-digest)
+  - [GitHub Digest](#github-digest)
 - [Community Incentives Program](#community)
 
 # Golem
@@ -82,32 +82,10 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 > New Golem is currently running on on Rinkeby testnet.
 
 ### Requestor:
-- Get started quick and make your first request with our [flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development). Make sure you meet the requirements then:
-  1. Quick install `curl -sSf https://join.golem.network/as-requestor | bash -`
-  2. Eun the daemon `yagna service run`
-  3. (Separate shell/terminal) generate and save your app key `yagna app-key create requestor`
-  4. enable the daemon as a requestor `yagna payment init -r`
-That's it! You're now able to request tasks on the Golem network!
-
-- Running an example:
-  - Get your environment setup, install dependencies, download examples and run your first task on the network
-   5. `python3 -m venv ~/.envs/yagna-python-tutorial`
-   6. `source ~/.envs/yagna-python-tutorial/bin/activate`
-   7. `pip3 install -U pip`
-   8. `pip3 install certifi yapapi`
-   9. `git clone https://github.com/golemfactory/yapapi.git`
-   10. `cd yapapi`
-   11. `git checkout b0.3`
-   12. `export YAGNA_APPKEY=insert-your-32-char-app-key-here` (remember your saved app-key?)
-   13. `cd examples/blender`
-   14. `python3 blender.py --subnet-tag devnet-alpha.2`
+Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
 
 ### Provider:
-Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of our handbook, below are the quick install instructions if you meet the prerequisites (Ubuntu 18.04 and 20.04 with Intel CPU): 
-
-1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -` after which you'll see our [start animation](https://user-images.githubusercontent.com/35585644/96857058-d7817900-145e-11eb-9d02-69614d6f8a29.gif).
-2. Start the Golem Sneak Peak provider release: `golemsp run`
-3. DONE! Your node should now be running. Check your node's status with `golemsp status`
+Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
 ## Testnet NGNT and Ether
 
@@ -135,14 +113,14 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ### GitHub Digest
 
-- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/)
-- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/)
-- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/)
-- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/)
-- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/)
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/)
-- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/)
-- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/)
+- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/): understanding the Golem Repositories
+- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/): diving into the Golem Repositories
+- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/): diving into Pull Requests of the Golem repositories
+- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/): diving into latest releases in the Golem repositories
+- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/): diving into the New Golem alpha testnet
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/): SGX proof-of-concept for New Golem
+- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/): Decentralization of the New Golem marketplace
+- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/): Awesome Golem and next steps to Alpha 3
 
 ## Community
 
