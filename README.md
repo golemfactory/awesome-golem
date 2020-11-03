@@ -38,6 +38,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 - [golem-parallel-matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - various statistical analyses are performed on circadian rhythm measurements in human test subjects.
 - [golem-covid](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://github.com/iRhonin/golem-covid/raw/main/covid.gif?raw=true)).
+- [golem-geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image [example](https://youtu.be/vKH7x2SrkEo).
 
 ## Tools
 
