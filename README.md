@@ -17,7 +17,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
   - [GitHub Digest](#github-digest)
-- [Community Incentives Program](#community)
+- [Community](#community)
 
 # Golem
 
@@ -37,8 +37,10 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 - [golem-parallel-matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - various statistical analyses are performed on circadian rhythm measurements in human test subjects.
-- [golem-covid](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://github.com/iRhonin/golem-covid/raw/main/covid.gif?raw=true)).
-- [golem-geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image [example](https://youtu.be/vKH7x2SrkEo).
+- [golem-covid](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)).
+- [golem-geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image ([example](https://youtu.be/vKH7x2SrkEo)).
+- [golem-lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - The Lorenz Equations are a system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
+- [limit-visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits. [Discontinous example](https://i.imgur.com/mxRDe5G.gif).
 
 ## Tools
 
@@ -61,13 +63,16 @@ Process And Visualize Interesting Computations In Matplotlib On Multiple Golem N
  1. https://github.com/smiley1983/golemGraphWavePair - [[Demo](https://youtu.be/h_MQKBRYTPw)]
  2. https://github.com/rezahsnz/golemized-strong-gravitational-lense - [[Demo](https://youtu.be/IQ0Xz0PEWoY)]
  3. https://github.com/CoeJoder/golem-parallel-matplotlib - [[Demo](https://youtu.be/hflrBq2OXwA)]
- 4. https://github.com/iRhonin/golem-covid - [[Demo](https://www.youtube.com/watch?v=9mgdz6I9xHM])]
+ 4. https://github.com/iRhonin/golem-covid - [[Demo](https://github.com/iRhonin/golem-covid#result])]
+ 5. https://github.com/hhio618/golem-lorenz-attractor - [[Demo](https://youtu.be/SPCUOPL6gqs)]
+ 6. https://github.com/vporton/limit-visualization - [[Demo](https://youtu.be/9mgdz6I9xHM)]
 
 Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
  1. https://github.com/rezahsnz/golemized-john - [[Demo](https://youtu.be/L1ht9E93I_0)]
  2. https://github.com/Doc-Saintly/golem-john-jumbo - [[Demo](https://discord.com/channels/684703559954333727/756161015493951600/766647702514958366)]
  3. https://github.com/iRhonin/golem-john - [[Demo](https://youtu.be/fgBIoS9t158)]
  4. https://github.com/hhio618/golem-jtr - [[Demo](https://youtu.be/d6UIb0i9ePI)]
+ 5. https://github.com/molecula451/jtrg - [[Demo](https://github.com/molecula451/jtrg#building-golem-image-locally)]
 
 Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966)
  1. https://github.com/Doc-Saintly/golem-video - [[Demo](https://golem-video.jarvispowered.com:5000/static/demo.mkv)]
