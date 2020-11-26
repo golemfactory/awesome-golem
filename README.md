@@ -33,6 +33,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 > Demos, hackathon+bounty app submissions and projects building on/with Golem.
 
 - [golem.network video transcoder](https://golem-video.jarvispowered.com:5000) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
+- [Golem Transcoding requestor](https://golem-transcoding.cloud/) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem.
 - [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
@@ -45,6 +46,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 ## Tools
 
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
+- [general-golem](https://github.com/DerekJarvis/general-golem) a dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor.
 
@@ -76,6 +78,7 @@ Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link]
 
 Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966)
  1. https://github.com/Doc-Saintly/golem-video - [[Demo](https://golem-video.jarvispowered.com:5000/static/demo.mkv)]
+ 2. https://github.com/Edhendil/golem-transcoding - [[Demo](https://www.youtube.com/watch?v=3koNyPvQdxA)]
 
 # 👷 Developer Resources
 
