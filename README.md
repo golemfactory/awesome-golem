@@ -3,6 +3,19 @@
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
 Note: this guide and it's contents is specific to New Golem and it's current implementation, Yagna. For Legacy (Clay) Golem, you can find the documentation [here](https://docs.golem.network/) and [comms archive](https://trello.com/b/95eZBUfT/golem-comms-archive).
 
+</p>
+<p align="center">
+    <a href="https://twitter.com/golemproject" alt="Twitter">
+        <img src="https://img.shields.io/twitter/follow/golemproject?style=social" />
+    </a>
+    <a href="https://discord.gg/y29dtcM" alt="Discord">
+        <img src="https://img.shields.io/discord/684703559954333727?logo=discord" />
+    </a>  
+    <a href="https://reddit.com/GolemProject" alt="Reddit">
+        <img src="https://img.shields.io/reddit/subreddit-subscribers/GolemProject?style=social" />
+    </a>
+</p>
+
 ### Contents
 
 - [Golem](#golem)
@@ -22,7 +35,9 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 # Golem
 
 - [Golem.Network Website](https://golem.network/) - The official Golem Network website.
-- [Golem Factory Github](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
+- [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
+- [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of New Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 - [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
@@ -32,12 +47,12 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 > Demos, hackathon+bounty app submissions and projects building on/with Golem.
 
-- [golem.network video transcoder](https://golem-video.jarvispowered.com:5000) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
-- [Golem Transcoding requestor](https://golem-transcoding.cloud/) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem.
-- [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
+- [golem.network video transcoder](https://github.com/Doc-Saintly/golem-video) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
+- [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem.
+- [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - Hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
-- [golem-parallel-matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - various statistical analyses are performed on circadian rhythm measurements in human test subjects.
+- [golem-parallel-matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
 - [golem-covid](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)).
 - [golem-geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image ([example](https://youtu.be/vKH7x2SrkEo)).
 - [golem-lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - The Lorenz Equations are a system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
@@ -45,9 +60,9 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Tools
 
-- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
-- [general-golem](https://github.com/DerekJarvis/general-golem) a dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
-- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password.
+- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems on the golem network.
+- [general-golem](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
+- [golem-jtr](https://github.com/hhio618/golem-jtr) - Run John The Ripper on Golem Nodes to recover a password.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor.
 
 ## Bounties and Hackathons
