@@ -57,6 +57,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [golem-geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image ([example](https://youtu.be/vKH7x2SrkEo)).
 - [golem-lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - The Lorenz Equations are a system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
 - [limit-visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits. [Discontinous example](https://i.imgur.com/mxRDe5G.gif).
+- [golem-node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions. Currently it runs the Alpha.3.
 
 ## Tools
 
