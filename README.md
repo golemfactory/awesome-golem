@@ -61,6 +61,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Tools
 
+- [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - A tool with the purpose of speeding up your development process and making it more enjoyable for Golem app creators ([intro+demo video](https://youtu.be/HP6VVBUdkm8)).
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems on the golem network.
 - [general-golem](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - Run John The Ripper on Golem Nodes to recover a password.
