@@ -21,7 +21,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
   - [Monitoring](#Monitoring)
-  - [Orchestration](#Orchestration)
+  - [Provisioning](#Provisioning)
   - [Docker](#Docker)
   - [Testing](#Testing)
   - [Games](#Games)
@@ -73,7 +73,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Alpha 3**
 
-## Orchestration
+## Provisioning
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Alpha 3**
 
