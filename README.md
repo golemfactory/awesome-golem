@@ -79,7 +79,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Docker
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions.
-    * **Compatibility: Alpha 3**
+    * **Compatibility: Alpha 4**
 - [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
     * **Compatibility: Alpha 3**
 
