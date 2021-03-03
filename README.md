@@ -39,7 +39,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
-  - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
+  - [Testnet GLM and Ether](#testnet-glm-and-ether)
 - [Learning Resources](#-learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
@@ -118,7 +118,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
     * **Compatibility: Alpha 3**
 - [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation - Powered By Golem
     * **Compatibility: Alpha 3**
-- [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits. 
+- [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits.
 [Discontinous example](https://i.imgur.com/mxRDe5G.gif).
     * **Compatibility: Alpha 2**
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
@@ -219,9 +219,16 @@ Get started quick and make your first request with the [Requestor flash tutorial
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
-## Testnet NGNT and Ether
+## Testnet GLM and Ether
 
-If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x...") and run the payment setup command again `yagna payment init -r`.
+To receive some tGLM on [rinkeby zksync](https://rinkeby.zkscan.io/) you can run `yagna payment fund` followed by `yagna payment init --sender`. You no longer need test ETH to run your task golem, tx fees on zksync are paid in tGLM too.
+
+In case there is an issue with zksync, you can use the old erc20 payment driver:
+- Get some funds with `yagna payment fund --driver erc20`.
+- Enable sending for this account with `yagna payment init --sender --driver erc20`.
+- Run your task ( f.e. python blender examplpe ) with `--driver erc20` argument.
+
+If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x...") and run the payment steps again `yagna payment fund --driver erc20` followed by `yagna payment init --sender --driver erc20`.
 
 If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
 
