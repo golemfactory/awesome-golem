@@ -93,7 +93,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Games
 - [Chess on Golem](https://github.com/broadcastmonkey/ChessOnGolem) - A react frontend for the 2 AI's playing against each other through the Golem backend, that computes each others next move.
-    * **Compatibility: Alpha 4**
+    * **Compatibility: Beta 1**
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants, powered by Golem.
     * **Compatibility: Alpha 3**
 - [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is [Kyle](https://github.com/bakaoh/magic-doll/tree/master/kyle), a Golem application that do all the computation to pick the best team to play for each match.
