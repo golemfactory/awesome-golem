@@ -38,7 +38,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
   - [Bounties and Hackathons](#bounties-and-hackathons)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
-  - [Running a node on New Golem](#running-a-node-on-new-golem)
+  - [Running a node on Golem](#running-a-node-on-new-golem)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
 - [Learning Resources](#-learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
@@ -71,6 +71,10 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Monitoring
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
+    * **Compatibility: Beta 1**
+- [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - A ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them.
+    * **Compatibility: Beta 1**
+- [Golem Provider dashboard backend](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above.
     * **Compatibility: Beta 1**
 
 ## Provisioning
@@ -210,8 +214,8 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the New Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - Github releases of Yagna.
 
-## Running a node on New Golem
-> New Golem is currently running on on Rinkeby testnet.
+## Running a node on Golem
+> Golem went on mainnet March 11th 2021.
 
 ### Requestor:
 Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
