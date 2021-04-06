@@ -57,7 +57,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
-# 🖥️ Apps
+## 🖥️ Apps
 - [Golem Slate](https://github.com/deutschklub/golem-slate) - SLATE is a code pen SPA for writing a requester script to have work computed by the golem network. It utilizes dockerized yagna environments to communicate with the Golem Network in the background. Hosted [here](https://golem-slate.xyz/).
     * **Compatibility: Beta 1**
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
@@ -83,6 +83,8 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 ## Docker
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions.
+    * **Compatibility: Beta 1**
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - A fork of Alxexandre-abrioux project that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn
     * **Compatibility: Beta 1**
 - [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
     * **Compatibility: Alpha 3**
