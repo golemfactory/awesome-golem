@@ -225,6 +225,8 @@ Get started quick and make your first request with the [Requestor flash tutorial
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
+Go through the [FaQ](https://docs.google.com/document/d/e/2PACX-1vQyoWcD-J3cczHePwKO1wr6KeMOsv61emOy4weAsfXLjXPPd6vQOruUIi0IvA_ooGrHjzh_yxNhBPwj/pub) for commonly asked questions.
+
 ## Testnet GLM and Ether
 
 To receive some tGLM on [rinkeby zksync](https://rinkeby.zkscan.io/) you can run `yagna payment fund` followed by `yagna payment init --sender`. You no longer need test ETH to run your task golem, tx fees on zksync are paid in tGLM too.
