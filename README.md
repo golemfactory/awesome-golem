@@ -38,7 +38,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
   - [Bounties and Hackathons](#bounties-and-hackathons)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
-  - [Running a node on Golem](#running-a-node-on-new-golem)
+  - [Running a node on Golem](#running-a-node-on-golem)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
 - [Learning Resources](#-learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
