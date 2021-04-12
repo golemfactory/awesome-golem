@@ -52,6 +52,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
 - [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of New Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
+- [Golem Statistics](https://stackoverflow.com/questions/tagged/yagna) - An experimental Alpha version of statistics showing Mainnet and Testnet.
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 - [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
@@ -221,6 +222,8 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 
 ### Requestor:
 Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
+
+- If you have an interesting question you'd like answered, the Golem development team monitors the [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna).
 
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
