@@ -95,7 +95,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Alpha 3**
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - Golem Cargo Test is an adaptive distributed test executor for rust projects running on the Golem network.
     * **Compatibility: Alpha 3**
-- [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized Task pipeline on top of the Golem Network
+- [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized Task pipeline on top of the Golem Network.
     * **Compatibility: Alpha 3**
 
 ## Games
@@ -121,7 +121,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 ## Data Simulation
 - [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - This package is a wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
     * **Compatibility: Alpha 3**
-- [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation - Powered By Golem
+- [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation - Powered By Golem.
     * **Compatibility: Alpha 3**
 - [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits.
 [Discontinous example](https://i.imgur.com/mxRDe5G.gif).
@@ -164,7 +164,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 
 ## User Interfaces
 
-- [Golem UI](https://github.com/shri4net/golem-hackathon-2020) - A electron user interface for the Golem Network
+- [Golem UI](https://github.com/shri4net/golem-hackathon-2020) - A electron user interface for the Golem Network.
     * **Compatibility: Alpha 3**
 
 ## Miscellaneous
@@ -173,7 +173,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Alpha 2**
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple nodejs requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
     * **Compatibility: Alpha 3**
-- [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images
+- [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images.
     * **Compatibility: Alpha 3**
 
 ## Bounties and Hackathons
@@ -279,5 +279,5 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ## Community
 
-- [Golem Community Incentives Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GNT!
+- [Golem Community Incentives Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM!
 - Community driven [Golem Network Discussion Group](https://t.me/GolemProject) Telegram channel.
