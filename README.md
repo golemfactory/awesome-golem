@@ -1,7 +1,7 @@
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
-Note: this guide and it's contents is specific to New Golem and it's current implementation, Yagna. For Legacy (Clay) Golem, you can find the documentation [here](https://docs.golem.network/) and [comms archive](https://trello.com/b/95eZBUfT/golem-comms-archive).
+Note: this guide and it's contents is specific to Golem and it's current implementation, Yagna. For Legacy (Clay) Golem, you can find the documentation [here](https://docs.golem.network/) and [comms archive](https://trello.com/b/95eZBUfT/golem-comms-archive).
 
 </p>
 <p align="center">
@@ -50,7 +50,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 - [Golem.Network Website](https://golem.network/) - The official Golem Network website.
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
-- [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of New Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
+- [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
 - [Golem Statistics](https://stackoverflow.com/questions/tagged/yagna) - An experimental Alpha version of statistics showing Mainnet and Testnet.
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
@@ -117,8 +117,6 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
     * **Compatibility: Alpha 2**
 - [Golem Parallel Matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
     * **Compatibility: Alpha 2**
-
-
 
 ## Data Simulation
 - [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - This package is a wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
@@ -214,7 +212,7 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 
 ### Docs and releases
 
-- [Yagna handbook](https://handbook.golem.network/) - Handbook for the New Golem, implementation name, Yagna.
+- [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - Github releases of Yagna.
 
 ## Running a node on Golem
@@ -254,10 +252,12 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ### Videos and presentations
 
+- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Mattias
+- [Golem Workshop at H3LLO Decentralization](https://youtu.be/gWRqu7IvYfk) - Kuba M
+- [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - Mattias
 - [Golem x Gitcoin - Hackathon 101 (December 2020) + Alpha 3 limitations](https://www.youtube.com/watch?v=P6D5ziYcDy0&t=481s)
 - [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - Kuba & Mikolaj (Golem) + Panel: Jay Zhou (Loopring Protocol), Kasima Tharnpipitchai (OMG Network), Alex Gluchowski (MatterLabs), Kelvin Fichter (Optimism), Kuba Kucharski (Golem)
 - [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
-- [New Golem - Alpha II Requestor Primer Tutorial](https://youtu.be/UHL-5QfoWmo) - Mattias
 - [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba
 - [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk
 
@@ -268,9 +268,9 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/): Diving into the Golem Repositories
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/): Diving into Pull Requests of the Golem repositories
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/): Diving into latest releases in the Golem repositories
-- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/): Diving into the New Golem alpha testnet
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/): SGX proof-of-concept for New Golem
-- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/): Decentralization of the New Golem marketplace
+- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/): Diving into the Golem alpha testnet
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/): SGX proof-of-concept for Golem
+- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/): Decentralization of the Golem marketplace
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/): Awesome Golem and next steps to Alpha 3
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/): AMD provider support, network metrics and improved proposal handling
 - [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/): Improvements from community feedback
