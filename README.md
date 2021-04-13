@@ -77,6 +77,8 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Beta 1**
 - [Golem Provider dashboard backend](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above.
     * **Compatibility: Beta 1**
+- [GolemBar](https://github.com/vciancio/golem-node-server) - A Golang waybar module for tracking the status and value of your Golem provider.
+    * **Compatibility: Beta 1**
 
 ## Provisioning
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
