@@ -222,6 +222,7 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
 
 - If you have an interesting question you'd like answered, the Golem development team monitors the [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna).
+- If you're a JS developer, you can take a look at the community-made [breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) to see how to run a task on Golem.
 
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
