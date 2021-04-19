@@ -83,6 +83,8 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 ## Provisioning
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Beta 1**
+- [Automatic Golem](https://github.com/r34x/Automatic-Golem) - An easy way to setup a Golem Provider with simple instructions.
+    * **Compatibility: Beta 1**
 
 ## Docker
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions.
