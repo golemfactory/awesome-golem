@@ -28,6 +28,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
   - [Data Analysis](#Data-Analysis)
   - [Data Simulation](#Data-Simulation)
   - [Data Optimization](#Data-Optimization)
+  - [Finance](#Finance)
   - [Machine Learning](#Machine-learning)
   - [Deep Learning](#Deep-Learning)
   - [RNG](#RNG)
@@ -83,7 +84,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 ## Provisioning
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Beta 1**
-- [Automatic Golem](https://github.com/r34x/Automatic-Golem) - An easy way to setup a Golem Provider with simple instructions.
+- [Automatic Golem](https://github.com/r34x/Automatic-Golem) - A way to setup a Golem Provider with simple instructions and logs guiding you through the process.
     * **Compatibility: Beta 1**
 
 ## Docker
@@ -141,8 +142,11 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 - [No more COFUD](https://github.com/DEUTSCHKLUB/no-more-COFUD) - A tool that calculates how to fit the most people into a space while keeping 2 meters distance between each other.
     * **Compatibility: Alpha 3**
 
+## Finance
+ - [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - A tool that scrapes ZKSync to generate financial data in a .csv file.
+
 ## Machine Learning
-- [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of DEcentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model.
+- [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of Decentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model.
     * **Compatibility: Alpha 3**
 
 ## Deep Learning
