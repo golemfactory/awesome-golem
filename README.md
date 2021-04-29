@@ -82,6 +82,8 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Beta 1**
 
 ## Provisioning
+- [WSL](https://github.com/r34x/WSL) - allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
+    * **Compatibility: Beta 1**
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Beta 1**
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - A way to setup a Golem Provider with simple instructions and logs guiding you through the process.
@@ -97,7 +99,9 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 
 ## Testing
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - A tool with the purpose of speeding up your development process and making it more enjoyable for Golem app creators ([intro+demo video](https://youtu.be/HP6VVBUdkm8)).
-    * **Compatibility: Alpha 3**
+    * **Compatibility: Beta 1**
+- [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework for Golem. This can help you find security holes in your software, such as a stack overflow.
+    * **Compatibility: Beta 1**
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - Golem Cargo Test is an adaptive distributed test executor for rust projects running on the Golem network.
     * **Compatibility: Alpha 3**
 - [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized Task pipeline on top of the Golem Network.
@@ -108,6 +112,8 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Beta 1**
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants, powered by Golem.
     * **Compatibility: Alpha 3**
+- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - HearthStone On Golem helps the HearthStone community in the design and building of decks by running a large number of simulated games on the Golem Network.
+    * **Compatibility: Beta 1**
 - [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is [Kyle](https://github.com/bakaoh/magic-doll/tree/master/kyle), a Golem application that do all the computation to pick the best team to play for each match.
     * **Compatibility: Alpha 3**
 
@@ -150,6 +156,8 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Alpha 3**
 
 ## Deep Learning
+- [mlg](https://github.com/rezahsnz/mlg) - CNN predict services on top of Golem. This deep learning application distributes popular CNNs pre-trained with ImageNet datasets across Golem provider nodes.
+    * **Compatibility: Beta 1**
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Make art using distributed computing, running a tensorflow app and uploading your content and style picture and make the golem network process your image, doing beautiful art with style transfer and deeplearning. (POC)
     * **Compatibility: Alpha 3 (PoC)**
 
