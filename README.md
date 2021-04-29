@@ -36,7 +36,6 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
   - [DeFi](#DeFi)
   - [User Interfaces](#User-Interfaces)
   - [Miscellaneous](#Miscellaneous)
-  - [Bounties and Hackathons](#bounties-and-hackathons)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on Golem](#running-a-node-on-golem)
@@ -191,38 +190,6 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     * **Compatibility: Alpha 3**
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images.
     * **Compatibility: Alpha 3**
-
-## Bounties and Hackathons
-
-> Details on Golem bounties and their submissions.
-
-[Gitcoin Hackathon 2020 Winners](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/)
-
-Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
- 1. https://github.com/canokaue/gvm-vim - [[Demo](https://www.youtube.com/watch?v=_Of5vnffJJ0&)]
- 2. https://github.com/rezahsnz/golemized-vim - [[Demo](https://youtu.be/ougeYENjLbs)]
- 3. https://github.com/iRhonin/golem-vim - [[Demo](https://youtu.be/3FBqp2IiP2E)]
- 4. https://github.com/thomgabriel/golem-compile-VIM - [[Demo](https://www.youtube.com/watch?v=jwXyiccyaWE)]
- 5. https://github.com/molecula451/gvim - [[Demo](https://github.com/molecula451/gvim#building-docker-image)]
-
-Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
- 1. https://github.com/smiley1983/golemGraphWavePair - [[Demo](https://youtu.be/h_MQKBRYTPw)]
- 2. https://github.com/rezahsnz/golemized-strong-gravitational-lense - [[Demo](https://youtu.be/IQ0Xz0PEWoY)]
- 3. https://github.com/CoeJoder/golem-parallel-matplotlib - [[Demo](https://youtu.be/hflrBq2OXwA)]
- 4. https://github.com/iRhonin/golem-covid - [[Demo](https://github.com/iRhonin/golem-covid#result])]
- 5. https://github.com/hhio618/golem-lorenz-attractor - [[Demo](https://youtu.be/SPCUOPL6gqs)]
- 6. https://github.com/vporton/limit-visualization - [[Demo](https://youtu.be/9mgdz6I9xHM)]
-
-Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
- 1. https://github.com/rezahsnz/golemized-john - [[Demo](https://youtu.be/L1ht9E93I_0)]
- 2. https://github.com/Doc-Saintly/golem-john-jumbo - [[Demo](https://discord.com/channels/684703559954333727/756161015493951600/766647702514958366)]
- 3. https://github.com/iRhonin/golem-john - [[Demo](https://youtu.be/fgBIoS9t158)]
- 4. https://github.com/hhio618/golem-jtr - [[Demo](https://youtu.be/d6UIb0i9ePI)]
- 5. https://github.com/molecula451/jtrg - [[Demo](https://github.com/molecula451/jtrg#building-golem-image-locally)]
-
-Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966)
- 1. https://github.com/Doc-Saintly/golem-video - [[Demo](https://golem-video.jarvispowered.com:5000/static/demo.mkv)]
- 2. https://github.com/Edhendil/golem-transcoding - [[Demo](https://www.youtube.com/watch?v=3koNyPvQdxA)]
 
 # 👷 Developer Resources
 
