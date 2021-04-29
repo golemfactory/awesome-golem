@@ -259,7 +259,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/): AMD provider support, network metrics and improved proposal handling
 - [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/): Improvements from community feedback
 - [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/): Easy log collection
-- [Golem GitHub Digest #12]https://blog.golemproject.net/golem-github-digest-12/): We are on MAINNET and gathering feedback
+- [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/): We are on MAINNET and gathering feedback
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/): Progressing faster with the help of the Golem community
 
 
