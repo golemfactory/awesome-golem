@@ -210,7 +210,7 @@ Get started quick and make your first request with the [Requestor flash tutorial
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
-Go through the [FaQ](https://docs.google.com/document/d/e/2PACX-1vQyoWcD-J3cczHePwKO1wr6KeMOsv61emOy4weAsfXLjXPPd6vQOruUIi0IvA_ooGrHjzh_yxNhBPwj/pub) for commonly asked questions.
+Go through the [FaQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) for commonly asked questions.
 
 ## Testnet GLM and Ether
 
