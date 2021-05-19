@@ -1,8 +1,3 @@
-# Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
-> Note: this guide and its contents is specific to Golem and it's current implementation, Yagna.
-
 </p>
 <p align="center">
     <a href="https://twitter.com/golemproject" alt="Twitter">
@@ -16,7 +11,12 @@
     </a>
 </p>
 
-### Table of Contents
+# Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
+> Note: this guide and its contents is specific to Golem and it's current implementation, Yagna.
+
+## Table of Contents
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
