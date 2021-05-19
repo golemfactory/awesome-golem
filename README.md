@@ -41,12 +41,12 @@
   - [Running a node on Golem](#running-a-node-on-golem)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
 - [Learning Resources](#-learning-resources)
-  - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
+  - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
   - [GitHub Digest](#github-digest)
 - [Community](#community)
 
-# Golem
+## Golem
 
 - [Golem.Network Website](https://golem.network/) - The official Golem Network website.
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
@@ -64,7 +64,7 @@
     * **Compatibility: Alpha 2**
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem.
     * **Compatibility: Alpha 3**
-- [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le’ M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them.
+- [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le' M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them.
     * **Compatibility: Alpha 3**
 
 ## Monitoring
@@ -72,9 +72,7 @@
     * **Compatibility: Beta 1**
 - [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - A ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them.
     * **Compatibility: Beta 1**
-- [Golem Provider dashboard backend](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above.
-    * **Compatibility: Beta 1**
-- [GolemBar](https://github.com/vciancio/golem-node-server) - A Golang waybar module for tracking the status and value of your Golem provider.
+- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above.
     * **Compatibility: Beta 1**
 
 ## Provisioning
@@ -88,15 +86,15 @@
 ## Docker
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions.
     * **Compatibility: Beta 1**
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - A fork of Alxexandre-abrioux project that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - A fork of Alxexandre-abrioux project that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
     * **Compatibility: Beta 1**
-- [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it
+- [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it.
     * **Compatibility: Alpha 3**
 
 ## Testing
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - A tool with the purpose of speeding up your development process and making it more enjoyable for Golem app creators ([intro+demo video](https://youtu.be/HP6VVBUdkm8)).
     * **Compatibility: Beta 1**
-- [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework for Golem. This can help you find security holes in your software, such as a stack overflow.
+- [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework for Golem. This can help you find security holes in your software, such as a Stack Overflow.
     * **Compatibility: Beta 1**
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - Golem Cargo Test is an adaptive distributed test executor for rust projects running on the Golem network.
     * **Compatibility: Alpha 3**
@@ -110,8 +108,6 @@
     * **Compatibility: Alpha 3**
 - [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - HearthStone On Golem helps the HearthStone community in the design and building of decks by running a large number of simulated games on the Golem Network.
     * **Compatibility: Beta 1**
-- [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is [Kyle](https://github.com/bakaoh/magic-doll/tree/master/kyle), a Golem application that do all the computation to pick the best team to play for each match.
-    * **Compatibility: Alpha 3**
 
 ## Data Analysis
 - [Flan](https://github.com/nestorbonilla/flan) - A tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to. All computed on top of the Golem Network.
@@ -171,7 +167,7 @@
 
 - [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - Is a smart contract in order to provide the opportunity of yield farming for Golem's GLM token holders. (By staking uniswap-LP tokens that is a pair between GLM and ETH into the stake pool).
     * **Compatibility: Alpha 3**
-- [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is Kyle, a Golem application that do all the computation to pick the best team to play for each match.
+- [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is [Kyle](https://github.com/bakaoh/magic-doll/tree/master/kyle), a Golem application that do all the computation to pick the best team to play for each match.
     * **Compatibility: Alpha 3**
 
 ## User Interfaces
@@ -253,7 +249,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - SGX proof-of-concept for Golem.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Decentralization of the Golem marketplace.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - Awesome Golem and next steps to Alpha 3.
-- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) -AMD provider support, network metrics and improved proposal handling.
+- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD provider support, network metrics and improved proposal handling.
 - [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - Improvements from community feedback.
 - [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - Easy log collection.
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - We are on MAINNET and gathering feedback.
