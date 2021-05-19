@@ -1,7 +1,7 @@
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
-Note: this guide and it's contents is specific to Golem and it's current implementation, Yagna.
+> Note: this guide and it's contents is specific to Golem and it's current implementation, Yagna.
 
 </p>
 <p align="center">
@@ -16,7 +16,7 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
     </a>
 </p>
 
-### Contents
+### Table of Contents
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
@@ -52,7 +52,6 @@ Note: this guide and it's contents is specific to Golem and it's current impleme
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
 - [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
-- [Golem Statistics](https://stackoverflow.com/questions/tagged/yagna) - An experimental Alpha version of statistics showing Mainnet and Testnet.
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 - [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
@@ -207,7 +206,7 @@ Get started quick and make your first request with the [Requestor flash tutorial
 - If you have an interesting question you'd like answered, the Golem development team monitors the [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna).
 - If you're a JS developer, you can take a look at the community-made [breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) to see how to run a task on Golem.
 
-### Provider:
+### Provider
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
 Go through the [FaQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) for commonly asked questions.
@@ -221,44 +220,44 @@ In case there is an issue with zksync, you can use the old erc20 payment driver:
 - Enable sending for this account with `yagna payment init --sender --driver erc20`.
 - Run your task ( f.e. python blender examplpe ) with `--driver erc20` argument.
 
-If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x...") and run the payment steps again `yagna payment fund --driver erc20` followed by `yagna payment init --sender --driver erc20`.
+If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x") and run the payment steps again `yagna payment fund --driver erc20` followed by `yagna payment init --sender --driver erc20`.
 
 If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
 
-# 📝 Learning Resources
+## 📝 Learning Resources
 
-### Unraveling Golem’s The Next Milestone series
+### Unraveling Golem's The Next Milestone series
 
-- [Unraveling Golem’s The Next Milestone](https://blog.golemproject.net/next-milestone)
-- [Unraveling Golem’s The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/)
-- [Unraveling Golem’s The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/)
+- [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone)
+- [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/)
+- [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/)
 
 
 ### Videos and presentations
 
-- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Mattias
-- [Golem Workshop at H3LLO Decentralization](https://youtu.be/gWRqu7IvYfk) - Kuba M
-- [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - Mattias
+- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Mattias.
+- [Golem Workshop at H3LLO Decentralization](https://youtu.be/gWRqu7IvYfk) - Kuba M.
+- [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - Mattias.
 - [Golem x Gitcoin - Hackathon 101 (December 2020) + Alpha 3 limitations](https://www.youtube.com/watch?v=P6D5ziYcDy0&t=481s)
-- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - Kuba & Mikolaj (Golem) + Panel: Jay Zhou (Loopring Protocol), Kasima Tharnpipitchai (OMG Network), Alex Gluchowski (MatterLabs), Kelvin Fichter (Optimism), Kuba Kucharski (Golem)
-- [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
-- [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba
-- [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk
+- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - Kuba & Mikolaj (Golem) + Panel: Jay Zhou (Loopring Protocol), Kasima Tharnpipitchai (OMG Network), Alex Gluchowski (MatterLabs), Kelvin Fichter (Optimism), Kuba Kucharski (Golem).
+- [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba.
+- [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba.
+- [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk.
 
 
 ### GitHub Digest
 
-- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/): Understanding the Golem Repositories
-- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/): Diving into the Golem Repositories
-- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/): Diving into Pull Requests of the Golem repositories
-- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/): Diving into latest releases in the Golem repositories
-- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/): Diving into the Golem alpha testnet
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/): SGX proof-of-concept for Golem
-- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/): Decentralization of the Golem marketplace
-- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/): Awesome Golem and next steps to Alpha 3
-- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/): AMD provider support, network metrics and improved proposal handling
-- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/): Improvements from community feedback
-- [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/): Easy log collection
+- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories
+- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories
+- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - Diving into Pull Requests of the Golem repositories
+- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - Diving into latest releases in the Golem repositories
+- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - Diving into the Golem alpha testnet
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - SGX proof-of-concept for Golem
+- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Decentralization of the Golem marketplace
+- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - Awesome Golem and next steps to Alpha 3
+- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) -AMD provider support, network metrics and improved proposal handling
+- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - Improvements from community feedback
+- [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - Easy log collection
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/): We are on MAINNET and gathering feedback
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/): Progressing faster with the help of the Golem community
 
