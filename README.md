@@ -66,8 +66,6 @@
     * **Compatibility: Alpha 3**
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le’ M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them.
     * **Compatibility: Alpha 3**
-- [No more COFUD](https://github.com/DEUTSCHKLUB/no-more-COFUD) - A tool that calculates how to fit the most people into a space while keeping 2 meters distance between each other.
-    * **Compatibility: Alpha 3**
 
 ## Monitoring
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
@@ -80,7 +78,7 @@
     * **Compatibility: Beta 1**
 
 ## Provisioning
-- [WSL](https://github.com/r34x/WSL) - allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
+- [WSL](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
     * **Compatibility: Beta 1**
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
     * **Compatibility: Beta 1**
@@ -137,7 +135,7 @@
     * **Compatibility: Alpha 2**
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
     * **Compatibility: Alpha 2**
-- [Golemized strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
+- [Golemized strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - A simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
     * **Compatibility: Alpha 2**
 
 ## Data Optimization
@@ -147,7 +145,7 @@
     * **Compatibility: Alpha 3**
 
 ## Finance
- - [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - A tool that scrapes ZKSync to generate financial data in a .csv file.
+- [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - A tool that scrapes ZKSync to generate financial data in a .csv file.
 
 ## Machine Learning
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of Decentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model.
@@ -171,9 +169,9 @@
 
 ## DeFi
 
-- [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - is a smart contract in order to provide the opportunity of yield farming for Golem's GLM token holders. (By staking uniswap-LP tokens that is a pair between GLM and ETH into the stake pool).
+- [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - Is a smart contract in order to provide the opportunity of yield farming for Golem's GLM token holders. (By staking uniswap-LP tokens that is a pair between GLM and ETH into the stake pool).
     * **Compatibility: Alpha 3**
-- [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is [Kyle](https://github.com/bakaoh/magic-doll/tree/master/kyle), a Golem application that do all the computation to pick the best team to play for each match.
+- [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. It's core is Kyle, a Golem application that do all the computation to pick the best team to play for each match.
     * **Compatibility: Alpha 3**
 
 ## User Interfaces
@@ -185,22 +183,22 @@
 
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor.
     * **Compatibility: Alpha 2**
-- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple nodejs requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
+- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
     * **Compatibility: Alpha 3**
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images.
     * **Compatibility: Alpha 3**
 
-# 👷 Developer Resources
+## 👷 Developer Resources
 
 ### Docs and releases
 
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
-- [Releases List](https://github.com/golemfactory/yagna/releases) - Github releases of Yagna.
+- [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 
 ## Running a node on Golem
 > Golem went on mainnet March 11th 2021.
 
-### Requestor:
+### Requestor
 Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
 
 - If you have an interesting question you'd like answered, the Golem development team monitors the [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna).
@@ -247,19 +245,19 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ### GitHub Digest
 
-- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories
-- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories
-- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - Diving into Pull Requests of the Golem repositories
-- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - Diving into latest releases in the Golem repositories
-- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - Diving into the Golem alpha testnet
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - SGX proof-of-concept for Golem
-- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Decentralization of the Golem marketplace
-- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - Awesome Golem and next steps to Alpha 3
-- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) -AMD provider support, network metrics and improved proposal handling
-- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - Improvements from community feedback
-- [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - Easy log collection
-- [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/): We are on MAINNET and gathering feedback
-- [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/): Progressing faster with the help of the Golem community
+- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories.
+- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories.
+- [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - Diving into Pull Requests of the Golem repositories.
+- [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - Diving into latest releases in the Golem repositories.
+- [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - Diving into the Golem alpha testnet.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - SGX proof-of-concept for Golem.
+- [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Decentralization of the Golem marketplace.
+- [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - Awesome Golem and next steps to Alpha 3.
+- [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) -AMD provider support, network metrics and improved proposal handling.
+- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - Improvements from community feedback.
+- [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - Easy log collection.
+- [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - We are on MAINNET and gathering feedback.
+- [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - Progressing faster with the help of the Golem community.
 
 
 ## Community
