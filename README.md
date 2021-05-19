@@ -1,7 +1,7 @@
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
-> Note: this guide and it's contents is specific to Golem and it's current implementation, Yagna.
+> Note: this guide and its contents is specific to Golem and it's current implementation, Yagna.
 
 </p>
 <p align="center">
