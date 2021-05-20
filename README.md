@@ -16,35 +16,35 @@
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
 > Note: this guide and its contents is specific to Golem and it's current implementation, Yagna.
 
-## Table of Contents
+## Contents
 
  - [Golem](#golem)
- - [Apps](#%EF%B8%8F-apps)
-   - [Monitoring](#monitoring)
-   - [Provisioning](#provisioning)
-   - [Docker](#docker)
-   - [Testing](#testing)
-   - [Games](#games)
-   - [Data Analysis](#data-analysis)
-   - [Data Simulation](#data-simulation)
-   - [Data Optimization](#data-optimization)
-   - [Finance](#finance)
-   - [Machine Learning](#machine-learning)
-   - [Deep Learning](#deep-learning)
-   - [RNG](#rng)
-   - [Password Cracking](#password-cracking)
-   - [DeFi](#defi)
-   - [User Interfaces](#user-interfaces)
-   - [Miscellaneous](#miscellaneous)
- - [Developer Resources](#-developer-resources)
-   - [Docs and Releases](#docs-and-releases)
-   - [Running a node on Golem](#running-a-node-on-golem)
-   - [Testnet GLM and Ether](#testnet-glm-and-ether)
- - [Learning Resources](#-learning-resources)
-   - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
-   - [Videos and presentations](#videos-and-presentations)
-   - [GitHub Digest](#github-digest)
- - [Community](#community)
+ - [Apps](#apps)
+  - [Monitoring](#monitoring)
+  - [Provisioning](#provisioning)
+  - [Docker](#docker)
+  - [Testing](#testing)
+  - [Games](#games)
+  - [Data Analysis](#data-analysis)
+  - [Data Simulation](#data-simulation)
+  - [Data Optimization](#data-optimization)
+  - [Finance](#finance)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [RNG](#rng)
+  - [Password Cracking](#password-cracking)
+  - [DeFi](#defi)
+  - [User Interfaces](#user-interfaces)
+  - [Miscellaneous](#miscellaneous)
+- [Developer Resources](#-developer-resources)
+  - [Docs and Releases](#docs-and-releases)
+  - [Running a node on Golem](#running-a-node-on-golem)
+  - [Testnet GLM and Ether](#testnet-glm-and-ether)
+- [Learning Resources](#-learning-resources)
+  - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
+  - [Videos and presentations](#videos-and-presentations)
+  - [GitHub Digest](#github-digest)
+- [Community](#community)
 
 ## Golem
 
@@ -57,7 +57,7 @@
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
-## 🖥️ Apps
+## Apps
 - [Golem Slate](https://github.com/deutschklub/golem-slate) - SLATE is a code pen SPA for writing a requester script to have work computed by the golem network. It utilizes dockerized yagna environments to communicate with the Golem Network in the background. Hosted [here](https://golem-slate.xyz/).
     * **Compatibility: Beta 1**
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
