@@ -20,6 +20,7 @@
 
 - [Golem](#golem)
 - [Apps](#apps)
+- [Apps](#%EF%B8%8F-apps)
   - [Monitoring](#monitoring)
   - [Provisioning](#provisioning)
   - [Docker](#docker)
@@ -37,6 +38,7 @@
   - [User Interfaces](#user-interfaces)
   - [Miscellaneous](#miscellaneous)
 - [Developer Resources](#developer-resources)
+- [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on Golem](#running-a-node-on-golem)
   - [Requestor](#requestor)
