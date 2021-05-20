@@ -40,7 +40,7 @@
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on Golem](#running-a-node-on-golem)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
-- [Learning Resources](#-learning-resources)
+- [Learning Resources](#learning-resources)
   - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
   - [GitHub Digest](#github-digest)
@@ -186,7 +186,7 @@
 
 ## Developer Resources
 
-### Docs and releases
+### Docs and Releases
 
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
@@ -218,7 +218,7 @@ If for any reason the faucet was unsuccessful, grab some testnet Ether via the [
 
 If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
 
-## 📝 Learning Resources
+## Learning Resources
 
 ### Unraveling Golem's The Next Milestone series
 
