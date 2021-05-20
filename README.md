@@ -20,7 +20,6 @@
 
 - [Golem](#golem)
 - [Apps](#apps)
-- [Apps](#%EF%B8%8F-apps)
   - [Monitoring](#monitoring)
   - [Provisioning](#provisioning)
   - [Docker](#docker)
