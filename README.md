@@ -39,6 +39,8 @@
 - [Developer Resources](#developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on Golem](#running-a-node-on-golem)
+  - [Requestor](#requestor)
+  - [Provider](#provider)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
 - [Learning Resources](#learning-resources)
   - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
