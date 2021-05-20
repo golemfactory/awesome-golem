@@ -18,8 +18,8 @@
 
 ## Contents
 
- - [Golem](#golem)
- - [Apps](#apps)
+- [Golem](#golem)
+- [Apps](#apps)
   - [Monitoring](#monitoring)
   - [Provisioning](#provisioning)
   - [Docker](#docker)
@@ -36,7 +36,7 @@
   - [DeFi](#defi)
   - [User Interfaces](#user-interfaces)
   - [Miscellaneous](#miscellaneous)
-- [Developer Resources](#-developer-resources)
+- [Developer Resources](#developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on Golem](#running-a-node-on-golem)
   - [Testnet GLM and Ether](#testnet-glm-and-ether)
@@ -184,7 +184,7 @@
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images.
     * **Compatibility: Alpha 3**
 
-## 👷 Developer Resources
+## Developer Resources
 
 ### Docs and releases
 
