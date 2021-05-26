@@ -181,4 +181,4 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 
 ## Contributing
 
-Pull requests and issues to with suggestions Awesome Golem are welcome! Please read the [contributing](contributing.md) guidelines before submitting a PR.
+Pull requests and issues with suggestions to Awesome Golem are welcome! Please read the [contributing](contributing.md) guidelines before submitting a PR.
