@@ -13,8 +13,7 @@
 
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
-> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
-> Note: this guide and its contents is specific to Golem and its current implementation, Yagna.
+> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem! The users of Golem make up the Golem Network, a P2P marketplace for computational resources where individuals can act as one of the two non-exclusive roles; a provider selling idle resources, or a requestor buying resources to run tasks.
 
 ## Contents
 
