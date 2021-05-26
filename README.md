@@ -49,7 +49,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Golem Slate](https://github.com/deutschklub/golem-slate) - SLATE is a code pen SPA for writing a requester script to have work computed by the golem network. It utilizes dockerized yagna environments to communicate with the Golem Network in the background. Hosted [here](https://golem-slate.xyz/).
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - A sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats.
-- [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le' M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them.
+- [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
 
 ### Docker
 - [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it.
@@ -58,7 +58,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - A tool with the purpose of speeding up your development process and making it more enjoyable for application creators ([demo video](https://youtu.be/HP6VVBUdkm8)).
 - [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework. Assists in finding security holes.
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - Golem Cargo Test is an adaptive distributed test executor for rust projects.
-- [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized Task pipeline.
+- [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
 
 ### Games
 - [Chess on Golem](https://github.com/broadcastmonkey/ChessOnGolem) - A react frontend for the 2 AI's playing against each other through the Golem backend, that computes each others next move.
@@ -69,12 +69,12 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Flan](https://github.com/nestorbonilla/flan) - A tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
 - [Golem Lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - The Lorenz Equations are a system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
 - [Golem Geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image ([example](https://youtu.be/vKH7x2SrkEo)).
-- [Golem COVID](https://github.com/iRhonin/golem-covid) - Grabs a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)).
+- [Golem COVID](https://github.com/iRhonin/golem-covid) - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)).
 - [Golem Parallel Matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
 
 ### Data Simulation
 - [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - A package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
-- [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation.
+- [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna array design and simulation.
 - [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs with various limits. Discontinous graph example [shown here](https://i.imgur.com/mxRDe5G.gif).
 - [GolemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Generate graph frames, then combine them into an animation.
 - [Golemized strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - A simple distributed computing hack that simulates a physical phenomena called gravitional lensing.
@@ -87,10 +87,10 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - A tool that scrapes ZKSync to generate financial data in a .csv file.
 
 ### Machine Learning
-- [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of Decentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model.
+- [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 
 ### Deep Learning
-- [Mlg ](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
+- [Mlg](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
 
 ### RNG
