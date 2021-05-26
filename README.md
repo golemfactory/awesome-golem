@@ -178,3 +178,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 
 - [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM!
 - [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
+
+## Contributing
+
+Pull requests and issues to with suggestions Awesome Golem are welcome! Please read the [contributing](contributing.md) guidelines before submitting a PR.
