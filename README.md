@@ -40,7 +40,7 @@
   - [Provisioning](#provisioning)
 - [Learning resources](#learning-resources)
   - [Presentations and workshop material](#presentations-and-workshop-material)
-  - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-blog-series)
+  - [Unraveling Golem's The Next Milestone blog series](#unraveling-golems-the-next-milestone-blog-series)
   - [GitHub Digest blog series](#github-digest-blog-series)
 - [Community](#community)
 
