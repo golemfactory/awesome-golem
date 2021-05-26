@@ -61,7 +61,7 @@
 
 ## Apps
 - [Golem Slate](https://github.com/deutschklub/golem-slate) - SLATE is a code pen SPA for writing a requester script to have work computed by the golem network. It utilizes dockerized yagna environments to communicate with the Golem Network in the background. Hosted [here](https://golem-slate.xyz/). **Compatibility: Beta 1**
-- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos. **Compatibility: Alpha 2**
+- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - A sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos. **Compatibility: Alpha 2**
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem. **Compatibility: Alpha 3**
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le' M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them. **Compatibility: Alpha 3**
 
@@ -81,7 +81,7 @@
 
 ### Testing
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - A tool with the purpose of speeding up your development process and making it more enjoyable for Golem app creators ([intro+demo video](https://youtu.be/HP6VVBUdkm8)). **Compatibility: Beta 1**
-- [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework for Golem. This can help you find security holes in your software, such as a Stack Overflow. **Compatibility: Beta 1**
+- [Golem-afl](https://github.com/sladecek/golem-afl) - Golem-afl is an experimental test-fuzzing framework for Golem. Assists in finding security holes. **Compatibility: Beta 1**
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - Golem Cargo Test is an adaptive distributed test executor for rust projects running on the Golem network. **Compatibility: Alpha 3**
 - [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized Task pipeline on top of the Golem Network. **Compatibility: Alpha 3**
 
@@ -94,11 +94,11 @@
 - [Flan](https://github.com/nestorbonilla/flan) - A tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to. All computed on top of the Golem Network. **Compatibility: Alpha 3**
 - [Golem Lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - The Lorenz Equations are a system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time. **Compatibility: Alpha 2**
 - [Golem Geomandel](https://github.com/Edhendil/golem-geomandel) - Geomandel requestor is a python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image ([example](https://youtu.be/vKH7x2SrkEo)). **Compatibility: Alpha 2**
-- [Golem COVID](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)). **Compatibility: Alpha 2**
+- [Golem COVID](https://github.com/iRhonin/golem-covid) - Grabs a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://i.imgur.com/0wtVDgx.mp4)). **Compatibility: Alpha 2**
 - [Golem Parallel Matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects. **Compatibility: Alpha 2**
 
 ### Data Simulation
-- [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - This package is a wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook. **Compatibility: Alpha 3**
+- [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - A package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook. **Compatibility: Alpha 3**
 - [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation - Powered By Golem. **Compatibility: Alpha 3**
 - [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits.
 [Discontinous example](https://i.imgur.com/mxRDe5G.gif). **Compatibility: Alpha 2**
@@ -116,7 +116,7 @@
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of Decentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model. **Compatibility: Alpha 3**
 
 ### Deep Learning
-- [mlg](https://github.com/rezahsnz/mlg) - CNN predict services on top of Golem. This deep learning application distributes popular CNNs pre-trained with ImageNet datasets across Golem provider nodes. **Compatibility: Beta 1**
+- [mlg](https://github.com/rezahsnz/mlg) - CNN predict services on top of Golem. A deep learning application that distributes popular CNNs pre-trained with ImageNet datasets across Golem provider nodes. **Compatibility: Beta 1**
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Make art using distributed computing, running a tensorflow app and uploading your content and style picture and make the golem network process your image, doing beautiful art with style transfer and deeplearning. **Compatibility: Alpha 3 (PoC)**
 
 ### RNG
@@ -148,55 +148,35 @@
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 
-### Running a node on Golem
-> Golem went on mainnet March 11th 2021.
-
 ### Requestor
-Get started quick and make your first request with the [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development).
 
-- If you have an interesting question you'd like answered, the Golem development team monitors the [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna).
-- If you're a JS developer, you can take a look at the community-made [breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) to see how to run a task on Golem.
+- [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
+- [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - If you have an interesting question you'd like answered.
+- [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide to see how to run a task on Golem.
 
 ### Provider
-Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of the handbook.
 
-Go through the [FaQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) for commonly asked questions.
-
-### Testnet GLM and Ether
-
-To receive some tGLM on [rinkeby zksync](https://rinkeby.zkscan.io/) you can run `yagna payment fund` followed by `yagna payment init --sender`. You no longer need test ETH to run your task golem, tx fees on zksync are paid in tGLM too.
-
-In case there is an issue with zksync, you can use the old erc20 payment driver:
-- Get some funds with `yagna payment fund --driver erc20`.
-- Enable sending for this account with `yagna payment init --sender --driver erc20`.
-- Run your task ( f.e. python blender examplpe ) with `--driver erc20` argument.
-
-If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x") and run the payment steps again `yagna payment fund --driver erc20` followed by `yagna payment init --sender --driver erc20`.
-
-If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
+- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial)- Get started as a Provider on Golem Network using the handbook.
+- [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
 
 ## Learning Resources
 
 ### Unraveling Golem's The Next Milestone series
 
-- [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone)
-- [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/)
-- [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/)
+- [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone) - An introduction to the Yagna implementation.
+- [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
+- [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem’s reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
 
 
-### Videos and presentations
+### Videos, presentations and event created material
 
-- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Mattias.
-- [Golem Workshop at H3LLO Decentralization](https://youtu.be/gWRqu7IvYfk) - Kuba M.
-- [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - Mattias.
-- [Golem x Gitcoin - Hackathon 101 (December 2020) + Alpha 3 limitations](https://www.youtube.com/watch?v=P6D5ziYcDy0&t=481s)
-- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - Kuba & Mikolaj (Golem) + Panel: Jay Zhou (Loopring Protocol), Kasima Tharnpipitchai (OMG Network), Alex Gluchowski (MatterLabs), Kelvin Fichter (Optimism), Kuba Kucharski (Golem).
-- [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba.
-- [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba.
-- [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk.
+- [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - A live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
+- [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - 
+- [Golem Workshop at H3LLO Decentralization](https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c) - A list of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem.
+- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - A video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
+- [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - A video walk-through of the provider handbook guide to start sharing computational resources the Golem Network.
 
-
-### GitHub Digest
+### GitHub Digest (educational blog series)
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories.
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories.
@@ -212,8 +192,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - We are on MAINNET and gathering feedback.
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - Progressing faster with the help of the Golem community.
 
-
 ## Community
 
 - [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM!
-- Community driven [Golem Network Discussion Group](https://t.me/GolemProject) Telegram channel.
+- [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
