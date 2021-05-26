@@ -14,7 +14,7 @@
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
 
-[<img src="golem-logo.svg" align="right" width="100">](https://golem.network/)
+[<img src="golem-logo.svg" align="right" width="150">](https://golem.network/)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem!
 
