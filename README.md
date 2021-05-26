@@ -76,7 +76,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - A package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
 - [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna Array Design & Simulation.
 - [Limit visualization](https://github.com/vporton/limit-visualization) - Plot graphs on Golem with various limits. Discontinous graph example [shown here](https://i.imgur.com/mxRDe5G.gif).
-- [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
+- [GolemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [Golemized strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - A simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 
 ### Data Optimization
@@ -90,7 +90,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - A Proof Of Concept of Decentralised Machine Learning. It uses Federated Learning to combine the sub-step models it trains on different provider nodes into a full fleged model.
 
 ### Deep Learning
-- [mlg](https://github.com/rezahsnz/mlg) - CNN predict services on top of Golem. A deep learning application that distributes popular CNNs pre-trained with ImageNet datasets across Golem provider nodes.
+- [Mlg](https://github.com/rezahsnz/mlg) - CNN predict services on top of Golem. A deep learning application that distributes popular CNNs pre-trained with ImageNet datasets across Golem provider nodes.
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Make art using distributed computing, running a tensorflow app and uploading your content and style picture and make the golem network process your image, doing beautiful art with style transfer and deeplearning.
 
 ### RNG
@@ -110,7 +110,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Golem UI](https://github.com/shri4net/golem-hackathon-2020) - A electron user interface for the Golem Network.
 
 ### Miscellaneous
-- [gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash) - A script to recalculate the hash of gvmi image file. It solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
+- [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash) - A script to recalculate the hash of gvmi image file. It solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images.
@@ -175,7 +175,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 
 ## Community
 
-- [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM tokens!
+- [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM tokens.
 - [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
 ## Contributing
