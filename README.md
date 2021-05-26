@@ -171,7 +171,7 @@
 ### Videos, presentations and event created material
 
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - A live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
-- [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - 
+- [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - High-level overview and introduction to Golem as a project.
 - [Golem Workshop at H3LLO Decentralization](https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c) - A list of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem.
 - [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - A video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
 - [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - A video walk-through of the provider handbook guide to start sharing computational resources the Golem Network.
