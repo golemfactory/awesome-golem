@@ -1,16 +1,3 @@
-</p>
-<p align="center">
-    <a href="https://twitter.com/golemproject" alt="Twitter">
-        <img src="https://img.shields.io/twitter/follow/golemproject?style=social" />
-    </a>
-    <a href="https://discord.gg/y29dtcM" alt="Discord">
-        <img src="https://img.shields.io/discord/684703559954333727?logo=discord" />
-    </a>  
-    <a href="https://reddit.com/GolemProject" alt="Reddit">
-        <img src="https://img.shields.io/reddit/subreddit-subscribers/GolemProject?style=social" />
-    </a>
-</p>
-
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
 
