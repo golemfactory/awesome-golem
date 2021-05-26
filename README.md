@@ -39,8 +39,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 
 - [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
-- [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
+- [Yagna GitHub](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 - [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
