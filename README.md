@@ -11,7 +11,7 @@
     </a>
 </p>
 
-# Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and apps on Golem!
 > Note: this guide and its contents is specific to Golem and its current implementation, Yagna.
