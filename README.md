@@ -13,7 +13,12 @@
 
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
-> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem! The users of Golem make up the Golem Network, a P2P marketplace for computational resources where individuals can act as one of the two non-exclusive roles; a provider selling idle resources, or a requestor buying resources to run tasks.
+
+[<img src="golem-logo.svg" align="right" width="100">](https://golem.network/)
+
+> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem!
+
+The users of Golem run the reference implementation in the form of Yagna. Together they make up the Golem Network, a P2P marketplace for computational resources where individuals can act as one of the two non-exclusive roles; a provider selling idle resources, or a requestor buying resources to run tasks.
 
 ## Contents
 
@@ -45,7 +50,7 @@
 
 ## Golem
 
-- [Golem.Network Website](https://golem.network/) - The official Golem Network website.
+- [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
 - [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
 - [Yagna GitHub](https://github.com/golemfactory/yagna) - The implementation of Golem [![Watch on GitHub](https://img.shields.io/github/watchers/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/golemfactory/yagna.svg?style=social)](https://github.com/golemfactory/yagna/stargazers)
