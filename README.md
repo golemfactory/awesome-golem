@@ -66,7 +66,6 @@
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le' M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them. **Compatibility: Alpha 3**
 
 ### Monitoring
-- [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus. **Compatibility: Beta 1**
 - [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - A ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them. **Compatibility: Beta 1**
 - [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above. **Compatibility: Beta 1**
 
