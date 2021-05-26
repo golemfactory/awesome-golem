@@ -20,8 +20,6 @@
 
 - [Golem](#golem)
 - [Apps](#apps)
-  - [Monitoring](#monitoring)
-  - [Provisioning](#provisioning)
   - [Docker](#docker)
   - [Testing](#testing)
   - [Games](#games)
@@ -36,16 +34,14 @@
   - [DeFi](#defi)
   - [User Interfaces](#user-interfaces)
   - [Miscellaneous](#miscellaneous)
-- [Developer Resources](#developer-resources)
-  - [Docs and Releases](#docs-and-releases)
-  - [Running a node on Golem](#running-a-node-on-golem)
-  - [Requestor](#requestor)
-  - [Provider](#provider)
-  - [Testnet GLM and Ether](#testnet-glm-and-ether)
-- [Learning Resources](#learning-resources)
-  - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-series)
-  - [Videos and presentations](#videos-and-presentations)
-  - [GitHub Digest](#github-digest)
+- [Developer and requestor resources](#developer-and-requestor-resources)
+- [Provider resources](#provider-resources)
+  - [Monitoring](#monitoring)
+  - [Provisioning](#provisioning)
+- [Learning resources](#learning-resources)
+  - [Presentations and workshop material](#presentations-and-workshop-material)
+  - [Unraveling Golem's The Next Milestone series](#unraveling-golems-the-next-milestone-blog-series)
+  - [GitHub Digest blog series](#github-digest-blog-series)
 - [Community](#community)
 
 ## Golem
@@ -65,18 +61,7 @@
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - A React + Spring based webapp accepting video files as input and transcoding these files into different formats using Golem. **Compatibility: Alpha 3**
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Go le' M. is a web based bulk image editor that uses the golem network for computation. It allows users to upload multiple images and apply bulk actions to them. **Compatibility: Alpha 3**
 
-### Monitoring
-- [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - A ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them. **Compatibility: Beta 1**
-- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above. **Compatibility: Beta 1**
-
-### Provisioning
-- [WSL](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine. **Compatibility: Beta 1**
-- [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus. **Compatibility: Beta 1**
-- [Automatic Golem](https://github.com/r34x/Automatic-Golem) - A way to setup a Golem Provider with simple instructions and logs guiding you through the process. **Compatibility: Beta 1**
-
 ### Docker
-- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions. **Compatibility: Beta 1**
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - A fork of Alxexandre-abrioux project that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn. **Compatibility: Beta 1**
 - [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - A dockerized requestor environment. You can just pass in the py script  (example uses the blender demo) and it sets up the daemon and runs it. **Compatibility: Alpha 3**
 
 ### Testing
@@ -141,34 +126,35 @@
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`. **Compatibility: Alpha 3**
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images. **Compatibility: Alpha 3**
 
-## Developer Resources
-
-### Docs and Releases
+## Developer and requestor resources
 
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
-
-### Requestor
-
 - [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - If you have an interesting question you'd like answered.
 - [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide to see how to run a task on Golem.
 
-### Provider
+## Provider resources
 
-- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial)- Get started as a Provider on Golem Network using the handbook.
+- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
 
-## Learning Resources
+### Monitoring
 
-### Unraveling Golem's The Next Milestone series
+- [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - A ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them. **Compatibility: Beta 1**
+- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - The flask backend that collects the data from the provider that's then used with the dashboard project above. **Compatibility: Beta 1**
 
-- [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone) - An introduction to the Yagna implementation.
-- [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
-- [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem’s reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
+### Provisioning
 
+- [WSL](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine. **Compatibility: Beta 1**
+- [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - A terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus. **Compatibility: Beta 1**
+- [Automatic Golem](https://github.com/r34x/Automatic-Golem) - A way to setup a Golem Provider with simple instructions and logs guiding you through the process. **Compatibility: Beta 1**
+- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - A Docker version of a node to help you get started running as a provider in a Docker container quick. Before you start please check that `ARG YA_CORE_VERSION`, `ARG YA_WASI_VERSION` and `ARG YA_VM_VERSION` in the [Dockerfile](https://github.com/alexandre-abrioux/golem-node/blob/master/docker/Dockerfile) are the correct versions. **Compatibility: Beta 1**
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - A fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn. **Compatibility: Beta 1**
 
-### Videos, presentations and event created material
+## Learning resources
+
+### Presentations and workshop material
 
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - A live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
 - [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - High-level overview and introduction to Golem as a project.
@@ -176,7 +162,13 @@
 - [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - A video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
 - [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - A video walk-through of the provider handbook guide to start sharing computational resources the Golem Network.
 
-### GitHub Digest (educational blog series)
+### Unraveling Golem's The Next Milestone blog series
+
+- [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone) - An introduction to the Yagna implementation.
+- [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
+- [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
+
+### GitHub Digest blog series
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories.
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories.
