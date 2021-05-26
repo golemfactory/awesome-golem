@@ -111,7 +111,7 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Golem UI](https://github.com/shri4net/golem-hackathon-2020) - A electron user interface for the Golem Network. **Compatibility: Alpha 3**
 
 ### Miscellaneous
-
+- [gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash) - A script to recalculate the hash of gvmi image file. It solves the issue of having lost the hash file of a previously uploaded image or if you're unsure if a key corresponds to a specific image. **Compatibility: Beta 1**
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor. **Compatibility: Alpha 2**
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - A simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`. **Compatibility: Alpha 3**
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - Using golem to sharpen your images. **Compatibility: Alpha 3**
