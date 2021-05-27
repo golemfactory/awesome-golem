@@ -46,7 +46,8 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
 ## Apps
-- [Golem Slate](https://golem-slate.xyz/) - SLATE is a code pen SPA for writing a requester script to have work computed by the golem network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.
+- [Golem SLATE](https://golem-slate.xyz/) - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.
+- [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
@@ -59,9 +60,10 @@ The users of Golem run the reference implementation in the form of Yagna. Togeth
 - [Golem-afl](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
 - [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
+- [Golem SLATE](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the Apps section.
 
 ### Games
-- [Chess on Golem](https://github.com/broadcastmonkey/ChessOnGolem) - React frontend for the 2 AI's playing against each other through the Golem backend, that computes each others next move.
+- [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem) - Open source repository for Chess described in the Apps section. Inlucdes React frontend for the 2 AI's playing against each other through the Golem backend.
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants.
 - [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.
 
