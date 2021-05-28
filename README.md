@@ -5,7 +5,7 @@
 
 > Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem!
 
-The users of Golem run the reference implementation in the form of Yagna. Together they make up the Golem Network, a P2P marketplace for computational resources where individuals can act as one of the two non-exclusive roles; a provider selling idle resources, or a requestor buying resources to run tasks.
+The users of Golem run the reference implementation in the form of the Rust implementation, Yagna. Together the users make up the Golem Network, a P2P marketplace for computational resources where individuals can act as one of the two non-exclusive roles; a provider selling idle resources, or a requestor buying resources to run tasks.
 
 ## Contents
 
