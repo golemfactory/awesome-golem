@@ -9,7 +9,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Contents
 
 - [Golem](#golem)
-- [Network statistics](#network-statistics)
+- [Network Statistics](#network-statistics)
 - [Apps](#apps)
   - [Docker](#docker)
   - [Testing](#testing)
@@ -25,14 +25,14 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [DeFi](#defi)
   - [User Interfaces](#user-interfaces)
   - [Miscellaneous](#miscellaneous)
-- [Developer and requestor resources](#developer-and-requestor-resources)
-- [Provider resources](#provider-resources)
+- [Developer and Requestor Resources](#developer-and-requestor-resources)
+- [Provider Resources](#provider-resources)
   - [Monitoring](#monitoring)
   - [Provisioning](#provisioning)
-- [Learning resources](#learning-resources)
-  - [Presentations and workshop material](#presentations-and-workshop-material)
-  - [Unraveling Golem's The Next Milestone blog series](#unraveling-golems-the-next-milestone-blog-series)
-  - [GitHub Digest blog series](#github-digest-blog-series)
+- [Learning Resources](#learning-resources)
+  - [Presentations and Workshop Material](#presentations-and-workshop-material)
+  - [Unraveling Golem's The Next Milestone Blog Series](#unraveling-golems-the-next-milestone-blog-series)
+  - [GitHub Digest Blog Series](#github-digest-blog-series)
 - [Community](#community)
 
 ## Golem
@@ -45,7 +45,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
-## Network statistics
+## Network Statistics
 
 - [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
@@ -130,7 +130,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
 
-## Developer and requestor resources
+## Developer and Requestor Resources
 
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
@@ -138,7 +138,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 - [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide for developers to get a better idea of how to run a task with the JavaScript API.
 
-## Provider resources
+## Provider Resources
 
 - [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
@@ -159,7 +159,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ## Learning resources
 
-### Presentations and workshop material
+### Presentations and Workshop Material
 
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
 - [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - High-level overview and introduction to Golem as a project.
@@ -173,7 +173,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
 - [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
 
-### GitHub Digest blog series
+### GitHub Digest Blog Series
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories.
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - Diving into the Golem Repositories.
