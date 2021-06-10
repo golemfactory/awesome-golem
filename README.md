@@ -157,7 +157,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 - [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
 
-## Learning resources
+## Learning Resources
 
 ### Presentations and Workshop Material
 
