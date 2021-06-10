@@ -45,7 +45,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
-## Network Statistics
+## Network statistics
 
 - [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
