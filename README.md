@@ -221,7 +221,6 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ## Community
 
-- [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GLM tokens.
 - [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 - [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
 
