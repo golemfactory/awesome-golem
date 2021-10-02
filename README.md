@@ -27,6 +27,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [DeFi](#defi)
   - [User Interfaces](#user-interfaces)
   - [Miscellaneous](#miscellaneous)
+- [Bounties and Rewards](#bounties-and-rewards)
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
 - [Provider Resources](#provider-resources)
   - [Monitoring](#monitoring)
@@ -147,6 +148,11 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
+
+## Bounties and Rewards
+
+- [GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - A program that incentivizes activity within development, support, content creation, and more.
+- [Gitcoin Bounties](https://gitcoin.co/golemfactory/bounties) - A collection of open bounties and hackathons hosted on Gitcoin.
 
 ## Developer and Requestor Resources
 
