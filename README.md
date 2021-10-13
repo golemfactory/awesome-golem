@@ -100,7 +100,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
-- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) -  - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
+- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
 ### Data Analysis
 
