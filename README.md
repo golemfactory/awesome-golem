@@ -100,7 +100,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
-- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Runs the popular cli video editing tool `auto-editor` as a requestor app on the Golem Network.
+- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) -  - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
 ### Data Analysis
 
@@ -159,7 +159,6 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
-- [Auto-Editor on Golem](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to golem. 
 
 ## Bounties and Rewards
 
