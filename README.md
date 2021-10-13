@@ -17,6 +17,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [VPN](#vpn)
   - [Games](#games)
   - [CLI Tools](#cli-tools)
+  - [Video Transcoding and Editing](#video-transcoding-and-editing)
   - [Data Analysis](#data-analysis)
   - [Data Simulation](#data-simulation)
   - [Data Optimization](#data-optimization)
@@ -65,8 +66,6 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem SLATE](https://golem-slate.xyz/) - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.
 - [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
-- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
-- [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
 
 ### Docker
@@ -96,6 +95,12 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
 - [Golocity](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
+
+### Video Transcoding and Editing
+
+- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
+- [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
+- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Runs the popular cli video editing tool `auto-editor` as a requestor app on the Golem Network.
 
 ### Data Analysis
 
