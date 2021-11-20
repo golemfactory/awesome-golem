@@ -83,6 +83,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ### VPN
 
 - [Yagna httpx client](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
+- [Golem Network Requestor](https://github.com/jedbrooke/golem-network-requestor) - Proxy connection from requestors to the provider. Makes it possible to give internet access to providers without officially being supported.
 
 ### Games
 
