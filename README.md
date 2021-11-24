@@ -55,6 +55,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [About Thorg](https://www.thorg.io/about) - Learn what the Thorg miner does.
 - [Thorg Usage](https://www.thorg.io/usage) - Understand the depths of Thorg.
 - [Twitter](https://twitter.com/minewiththorg) - The official Twitter of Thorg.
+- [Our Super Cool Thorg Application](https://supercoolthorg.io) - Shows how cool Thorg is.
 
 ## Network Statistics
 
