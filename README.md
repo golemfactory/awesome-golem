@@ -238,6 +238,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 - [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
+- [Golem God](https://github.com/Shreyas-Dev-ITB/Golem-God) - Gives out "bot coins" for activity, and lets users exchange and withdraw them to tokens when they have enough.
 
 ## Contributing
 
