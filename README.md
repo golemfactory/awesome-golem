@@ -163,6 +163,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
 - [Filterms](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 - [golem-bulk-image-handler](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
+- [gc_spyu] (https://github.com/krunch3r76/gc_spyu) - Obtain cpu speeds of specific providers and integrate results with gc_listoffers
 
 ## Bounties and Rewards
 
