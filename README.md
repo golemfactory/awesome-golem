@@ -79,6 +79,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
 - [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
 - [Golem SLATE](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the above Apps section.
+- [ThorgPress](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ### VPN
 
