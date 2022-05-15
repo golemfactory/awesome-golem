@@ -189,7 +189,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Monitoring
 
-- [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without havingn to SSH into them.
+- [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
 - [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask backend that collects the data from the provider that's then used with the dashboard project above.
 
 ### Provisioning
@@ -200,7 +200,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
 - [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
-- [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
+- [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
 
 ## Learning Resources
 
