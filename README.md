@@ -10,7 +10,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem](#golem)
 - [Network Statistics](#network-statistics)
-- [Golem Projects](#Golem Projects)
+- [Golem Projects](#Golem-Projects)
   - [GPU Provider](#GPU-Provider)
   - [Ray on Golem](#Ray-on-Golem)
   - [JS SDK](#JS-SDK)
@@ -18,7 +18,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [Rendering on Golem](#Rendering-on-Golem)
   - [Reputation System](#Reputation-System)
   - [Blockchain Automations (aka Emeth.xyz)](#Blockchain-automations-(aka-Emeth.xyz))
-- [Community-driven Projects]
+- [Community-driven Projects](#Community-driven-projects)
   - [CUDA](#CUDA)
   - [Project Gutenberg](#Project-Gutenberg)
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
