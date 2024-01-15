@@ -29,7 +29,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [Presentations and Workshop Material](#presentations-and-workshop-material)
   - [Unraveling Golem's The Next Milestone Blog Series](#unraveling-golems-the-next-milestone-blog-series)
   - [GitHub Digest Blog Series](#github-digest-blog-series)
-- [Archive]
+- [Archive](#Archive)
   - [Apps](#apps)
 
 
