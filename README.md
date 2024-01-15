@@ -10,17 +10,17 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem](#golem)
 - [Network Statistics](#network-statistics)
-- [Golem Projects]
-  - [GPU Provider]
-  - [Ray on Golem]
-  - [JS SDK]
-  - [Jupyter on Golem]
-  - [Rendering on Golem]
-  - [Reputation System]
-  - [Blockchain Automations (aka Emeth.xyz)]
+- [Golem Projects](#Golem Projects)
+  - [GPU Provider](#GPU-Provider)
+  - [Ray on Golem](#Ray-on-Golem)
+  - [JS SDK](#JS-SDK)
+  - [Jupyter on Golem](#Jupyter-on-Golem)
+  - [Rendering on Golem](#Rendering-on-Golem)
+  - [Reputation System](#Reputation-System)
+  - [Blockchain Automations (aka Emeth.xyz)](#Blockchain-automations-(aka-Emeth.xyz))
 - [Community-driven Projects]
-  - [CUDA]
-  - [Project Gutenberg]
+  - [CUDA](#CUDA)
+  - [Project Gutenberg](#Project-Gutenberg)
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
 - [Provider Resources](#provider-resources)
   - [Monitoring](#monitoring)
@@ -46,6 +46,29 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 - [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
+
+## Golem Projects
+
+### GPU Provider
+
+### Ray on Golem
+
+### JS SDK
+
+### Jupyter on Golem
+
+### Rendering on Golem
+
+### Reputation System
+
+### Blockchain Automations (aka Emeth.xyz)
+
+## Communitiy-driven Projects
+
+### CUDA
+
+### Project Gutenberg
+
 
 
 ## Developer and Requestor Resources
