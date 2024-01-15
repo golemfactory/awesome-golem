@@ -18,9 +18,6 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [Rendering on Golem](#Rendering-on-Golem)
   - [Reputation System](#Reputation-System)
   - [Blockchain Automations (aka Emeth.xyz)](#Blockchain-automations-(aka-Emeth.xyz))
-- [Community-driven Projects](#Community-driven-projects)
-  - [CUDA](#CUDA)
-  - [Project Gutenberg](#Project-Gutenberg)
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
 - [Provider Resources](#provider-resources)
   - [Monitoring](#monitoring)
@@ -51,24 +48,30 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### GPU Provider
 
+We want to extend the capabilities of Golem Network for GPU workloads. Project status is available on the pinned messages [here](https://discord.com/channels/684703559954333727/1136987885485170708)  
+
 ### Ray on Golem
+
+[Ray on Golem](https://github.com/golemfactory/ray-on-golem) is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.
 
 ### JS SDK
 
+[JS SDK](https://github.com/golemfactory/golem-js) is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
+
 ### Jupyter on Golem
+
+[Jupyter on Golem](https://github.com/golemfactory/golem-kernel-python) is a JupyterLab Python kernel that empowers you to run your Python Notebooks using the decentralized resources available on the Golem Network. 
 
 ### Rendering on Golem
 
+In close collaboration with Reality Games, we've developed a service that activates Golem's providers for rendering personalized building animations as a (web2) proof-of-ownership for ERC-1155 tokens. Learn more [here](https://reality.golem.network/) 
+
+
 ### Reputation System
 
+The Reputation System goal is to address the challenges of trust and reliability in the network where anyone can participate as a provider or requestor without any sort of identification. The system aims to establish a framework of trust, ensuring secure and reliable interactions between participants on the network.
+
 ### Blockchain Automations (aka Emeth.xyz)
-
-## Communitiy-driven Projects
-
-### CUDA
-
-### Project Gutenberg
-
 
 
 ## Developer and Requestor Resources
