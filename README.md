@@ -51,9 +51,9 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Developer and Requestor Resources
 
 - [Golem Docs](https://docs.golem.network/) - A creator's manual for Golem. By developers, for developers.
-- [Python API Reference]([https://docs.golem.network/](https://yapapi.readthedocs.io/)) - Yapapi API Reference.
-- [Releases List]([https://docs.golem.network/](https://github.com/golemfactory/yagna/releases)) - GitHub releases of Yagna.
-- [JS Requestor Quickstart]([https://docs.golem.network/](https://docs.golem.network/docs/quickstarts/js-quickstart)) - Get started quickly and create your first tasks/request on Golem.
+- [Python API Reference]([https://docs.golem.network/](https://yapapi.readthedocs.io/) - Yapapi API Reference.
+- [Releases List]([https://docs.golem.network/](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
+- [JS Requestor Quickstart]([https://docs.golem.network/](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 
 
