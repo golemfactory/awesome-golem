@@ -13,7 +13,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Projects](#Golem-Projects)
   - [GPU Provider](#GPU-Provider)
   - [Ray on Golem](#Ray-on-Golem)
-  - [golem-js - the JS SDK from Golem](#golem-js-the-JS-SDK-from-Golem)
+  - [golem-js - the JS SDK from Golem](#golem-js---the-JS-SDK-from-Golem)
   - [Jupyter on Golem](#Jupyter-on-Golem)
   - [Rendering on Golem](#Rendering-on-Golem)
   - [Reputation System](#Reputation-System)
