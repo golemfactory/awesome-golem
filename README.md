@@ -13,7 +13,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Projects](#Golem-Projects)
   - [GPU Provider](#GPU-Provider)
   - [Ray on Golem](#Ray-on-Golem)
-  - [JS SDK](#JS-SDK)
+  - [golem-js - the JS SDK from Golem](#golem-js-the-JS-SDK-from-Golem)
   - [Jupyter on Golem](#Jupyter-on-Golem)
   - [Rendering on Golem](#Rendering-on-Golem)
   - [Reputation System](#Reputation-System)
@@ -54,7 +54,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 [Ray on Golem](https://github.com/golemfactory/ray-on-golem) is an exciting integration with Ray, a distributed computing framework, to provide an easier way of accessing the Golem Network for Python developers.
 
-### JS SDK
+### golem-js - the JS SDK from Golem
 
 [JS SDK](https://github.com/golemfactory/golem-js) is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
 
