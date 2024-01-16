@@ -17,6 +17,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
   - [Jupyter on Golem](#Jupyter-on-Golem)
   - [Rendering on Golem](#Rendering-on-Golem)
   - [Reputation System](#Reputation-System)
+- [Ecosystem](#Ecosystem)
   - [Blockchain Automations (aka Emeth.xyz)](#Blockchain-automations-(aka-Emeth.xyz))
 - [Developer and Requestor Resources](#developer-and-requestor-resources)
 - [Provider Resources](#provider-resources)
@@ -71,8 +72,11 @@ In close collaboration with Reality Games, we've developed a service that activa
 
 The Reputation System goal is to address the challenges of trust and reliability in the network where anyone can participate as a provider or requestor without any sort of identification. The system aims to establish a framework of trust, ensuring secure and reliable interactions between participants on the network.
 
+## Ecosystem
+
 ### Blockchain Automations (aka Emeth.xyz)
 
+Emeth specializes in DeFi (Decentralized Finance) portfolio management and blockchain automations. It leverages Golem's technology to offer tools for  automation and simplification of managing DeFi investments. The platform focuses on enhancing the ease and efficiency of operating within the DeFi space. It combines user-friendly interfaces with sophisticated analytics, catering to the needs of both novice and experienced DeFi users.
 
 ## Developer and Requestor Resources
 
