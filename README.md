@@ -56,7 +56,7 @@ We want to extend the capabilities of Golem Network for GPU workloads. Project s
 
 ### golem-js - the JS SDK from Golem
 
-[JS SDK](https://github.com/golemfactory/golem-js) is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
+[golem-js](https://github.com/golemfactory/golem-js) is a library and set of developer tools and docs that are aimed to enable developers to create Golem applications running in Node.js or browser context.
 
 ### Jupyter on Golem
 
