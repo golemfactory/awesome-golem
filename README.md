@@ -98,6 +98,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 - [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
 - [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask backend that collects the data from the provider that's then used with the dashboard project above.
+- [IOTA Watch](https://iotahome.site/en/projects/golem) - Open-source web dashboard for public Golem node status, hardware information and source-defined last-24-hour GLM earnings.
 
 ### Provisioning
 
